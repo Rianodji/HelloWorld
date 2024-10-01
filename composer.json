@@ -1,0 +1,14 @@
+{
+    "name": "rianodji/helloworld",
+    "description": "Un composant simple pour afficher un message de salutation.",
+    "type": "library",
+    "require": {
+        "php": "^8.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "rianodji\\HelloWorld\\": "src/"
+        }
+    },
+    "license": "proprietary"
+}
